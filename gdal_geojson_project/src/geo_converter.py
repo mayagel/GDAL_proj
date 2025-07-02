@@ -12,8 +12,6 @@ class GeoConverter:
         for i in range(dataSource.GetLayerCount()):
             layer = dataSource.GetLayerByIndex(i)
             layer_name = layer.GetName()
-            output_geojson = output_geojson
-
             geojson_driver = ogr.GetDriverByName("GeoJSON")
             if os.path.exists(output_geojson):
                 geojson_driver.DeleteDataSource(output_geojson)
@@ -36,8 +34,6 @@ class GeoConverter:
 
         driver = ogr.GetDriverByName("DXF")
         dataSource = driver.Open(dxf_output, 0)
-
-        geojson_output = geojson_output
 
         if dataSource is not None:
             geojson = {
