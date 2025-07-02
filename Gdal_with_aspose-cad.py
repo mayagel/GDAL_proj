@@ -8,7 +8,11 @@ output_dir = "files\\outputs"
 
 # Input DWG file path
 # dwg_path = "files\\dwg_from_web\\arc_2000.dwg" # working with this file (R2000 (AC1015))
-dwg_path = "files\\Eyal_files\\kav only.dwg" # wotks now! with this file (AC1027)
+# dwg_path = "files\\Eyal_files\\kav only.dwg" # wotks now! with this file (AC1027)
+# dwg_path = "files\\dwg_to_geojson\\dwg_from_web\\architectural_-_annotation_scaling_and_multileaders.dwg" # works partially (errors and the files create anyway) with this file (AC1021)
+dwg_path = "files\\dwg_to_geojson\\Eyal-hiter-all.dwg" # works partially (errors and the files create anyway) with this file (AC1032)
+
+
 
 # Load the DWG file
 image = Image.load(dwg_path)
@@ -52,7 +56,7 @@ if dataSource is not None:
     # Print the data from the GeoJSON file
     with open(geojson_output, "r") as f:
         data = json.load(f)
-        print(json.dumps(data, indent=2))
+        json.dumps(data, indent=2)
     dataSource = None
 else:
     print("Failed to open DXF file for GeoJSON export.")

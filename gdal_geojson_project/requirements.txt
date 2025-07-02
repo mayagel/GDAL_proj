@@ -1,0 +1,3 @@
+aspose-cad
+
+C:\Users\yagelm\Desktop\tasks\Gdal\GDAL_proj\archive\GDAL-3.4.3-cp311-cp311-win_amd64.whl

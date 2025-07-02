@@ -1,0 +1,544 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            196815.95109846283,
+            565500.6455017459,
+            0.0
+          ],
+          [
+            197268.5878,
+            565705.161,
+            0.0
+          ],
+          [
+            197281.0878,
+            565705.161,
+            0.0
+          ],
+          [
+            198102.4565,
+            565705.161,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "DIM",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLeader",
+        "Linetype": "Continuous",
+        "EntityHandle": "103E",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              196816.80891542046,
+              565498.7469686688,
+              0.0
+            ],
+            [
+              196804.5599,
+              565495.4986,
+              0.0
+            ],
+            [
+              196815.0932815052,
+              565502.544034823,
+              0.0
+            ],
+            [
+              196816.80891542046,
+              565498.7469686688,
+              0.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "DIM",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLeader",
+        "Linetype": "Continuous",
+        "EntityHandle": "103E",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          197691.8721,
+          565739.9718,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "2",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": "Continuous",
+        "EntityHandle": "1042",
+        "Text": "\u0412\u040c\u0432\u0402\u045b\u041b\u045a\u0412\u0403\u0432\u201a\u00ac \u0432\u0402\u045a\u0412\u0459\u0432\u0402\u2116 '\u0432\u0402\u040e\u0412\u0459 \n \u0427\u00a7\u0427\u2122\u0427\u2122\u0427\u045b\u0427\u0404 \n329/50092  '\u0432\u0402\u0098\u0412\u040b \u0432\u0402\u201d\u0432\u0402\u00b0\u0412\u0459"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          196875.7258,
+          565732.28,
+          -0.0
+        ]
+      },
+      "properties": {
+        "Layer": "2",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": "Continuous",
+        "EntityHandle": "1083",
+        "Text": "\u0432\u0402\u2122\u0432\u0402\u00a6\u0432\u0402\u201c\u0412\u0403 \u0412\u040a\u0432\u0402\u00a6\u0412\u0403\u0432\u0402\u0459"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            203558.33883185184,
+            564312.962490664,
+            0.0
+          ],
+          [
+            203473.1876,
+            564721.1014,
+            0.0
+          ],
+          [
+            203423.1876,
+            564721.1014,
+            0.0
+          ],
+          [
+            203034.5569,
+            564721.1014,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "DIM",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLeader",
+        "Linetype": "Continuous",
+        "EntityHandle": "1099",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              203566.4965136292,
+              564314.664452022,
+              0.0
+            ],
+            [
+              203568.5506,
+              564264.0164,
+              0.0
+            ],
+            [
+              203550.1811500745,
+              564311.2605293059,
+              0.0
+            ],
+            [
+              203566.4965136292,
+              564314.664452022,
+              0.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "DIM",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLeader",
+        "Linetype": "Continuous",
+        "EntityHandle": "1099",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          203246.1731,
+          564738.4023,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "2",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": "Continuous",
+        "EntityHandle": "109D",
+        "Text": "\u0432\u0402\u2122\u0432\u0402\u00a6\u0432\u0402\u201c\u0412\u0403 \u0412\u040a\u0432\u0402\u00a6\u0412\u0403\u0432\u0402\u0459"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            201027.41914422796,
+            564315.0239128255,
+            0.0
+          ],
+          [
+            201447.9477,
+            563603.2713,
+            0.0
+          ],
+          [
+            201467.9477,
+            563603.2713,
+            0.0
+          ],
+          [
+            202267.2224,
+            563603.2713,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "DIM",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLeader",
+        "Linetype": "Continuous",
+        "EntityHandle": "10B9",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              201024.54929636553,
+              564313.3283054542,
+              0.0
+            ],
+            [
+              201017.2455,
+              564332.243,
+              0.0
+            ],
+            [
+              201030.28899209038,
+              564316.7195201968,
+              0.0
+            ],
+            [
+              201024.54929636553,
+              564313.3283054542,
+              0.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "DIM",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLeader",
+        "Linetype": "Continuous",
+        "EntityHandle": "10B9",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          201468.1477,
+          563794.1687,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "2",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": "Continuous",
+        "EntityHandle": "10BD",
+        "Text": "\u0412\u040c\u0432\u0402\u045b\u041b\u045a\u0412\u0403\u0432\u201a\u00ac \u0432\u0402\u045a\u0412\u0459\u0432\u0402\u2116 '\u0432\u0402\u040e\u0412\u0459 \u041b\u045a\u0412\u0403\u0432\u0402\u040e\u0412\u040b \u0432\u0402\u00a6\u0432\u0402\u201d\n \u0412\u040f\u0412\u0452\u0432\u0402\u2116\u0432\u0402\u00a6\u0412\u0459\u0412\u040b \u0432\u0402\u045b\u041b\u045a\u0432\u0402\u2122\u041b\u045a\u0432\u0402\u2122 \u0412\u0459\u0412\u040b\u0432\u0402\u00a6\u0432\u0402\u201c\u0412\u040a\n\u0427\u2022\u0427\u045e\u0427\u201c\u0427\u201d \u0427\u00a0\u0427\u2019\u0427\u2018 \u0427\u045b\u0427\u2013\u0427\u0401\u0427\u2014\u0427\u2122"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          197251.4036,
+          564558.4178,
+          72.2765
+        ]
+      },
+      "properties": {
+        "Layer": "TEXT-2500",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": "Continuous",
+        "EntityHandle": "10E3",
+        "Text": "fcha 52"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            203676.42546087372,
+            564332.4146607469,
+            0.0
+          ],
+          [
+            204051.2309,
+            565080.3302,
+            0.0
+          ],
+          [
+            204011.237,
+            565081.0283,
+            0.0
+          ],
+          [
+            203160.8345,
+            565095.8721,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "DIM",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLeader",
+        "Linetype": "Continuous",
+        "EntityHandle": "10F3",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              203682.38560433156,
+              564329.4278339347,
+              0.0
+            ],
+            [
+              203658.5045,
+              564296.6538,
+              0.0
+            ],
+            [
+              203670.4653174159,
+              564335.4014875592,
+              0.0
+            ],
+            [
+              203682.38560433156,
+              564329.4278339347,
+              0.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "DIM",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLeader",
+        "Linetype": "Continuous",
+        "EntityHandle": "10F3",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          204010.2546,
+          565082.0456,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "2",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": "Continuous",
+        "EntityHandle": "10F7",
+        "Text": " \u0432\u0402\u045b\u041b\u045a\u0432\u0402\u2122\u041b\u045a\u0432\u0402\u2122 \u0412\u0459\u0412\u040b\u0432\u0402\u00a6\u0432\u0402\u201c \u041b\u045a\u0412\u0403\u0432\u0402\u040e\u0412\u040b \u0432\u0402\u00a6\u0432\u0402\u201d\n \u0412\u040f\u0412\u0452\u0432\u0402\u2116\u0432\u0402\u00a6\u0412\u0459\u0412\u040b \u0412\u040c\u0432\u0402\u00b0\u041b\u2020\u0412\u0403\u0412\u0452 \u0412\u0459\u0412\u040b\u0432\u0402\u00a6\u0432\u0402\u201c\u0412\u040a\n\u0427\u045b\u0427\u2022\u0427\u2019\u0427\u00a9 \u0427\u2018\u0427\u201d\u0427\u2122\u0427\u0404\u0427\u0401 \u0427\u00a0\u0427\u00a4\u0427\u0401\u0427\u201c- \u0427\u2018\u0427\u00a7\u0427\u00a9\u0427\u201d \u0427\u045a\u0427\u045b\u0427\u2122\u0427\u201c\u0427\u045e \u0427\u00a0\u0427\u2022\u0427\u040e\u0427\u00a4\u0427\u0404"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            203935.1632996106,
+            563396.2550628139,
+            0.0
+          ],
+          [
+            203858.9534,
+            563609.3815,
+            0.0
+          ],
+          [
+            203908.9534,
+            563609.3815,
+            0.0
+          ],
+          [
+            204620.7983,
+            563609.3815,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "DIM",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLeader",
+        "Linetype": "Continuous",
+        "EntityHandle": "1113",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              203943.0100600796,
+              563399.0609128787,
+              0.0
+            ],
+            [
+              203951.9984,
+              563349.1745,
+              0.0
+            ],
+            [
+              203927.3165391416,
+              563393.449212749,
+              0.0
+            ],
+            [
+              203943.0100600796,
+              563399.0609128787,
+              0.0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "DIM",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLeader",
+        "Linetype": "Continuous",
+        "EntityHandle": "1113",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          204264.9759,
+          563609.4815,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "2",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": "Continuous",
+        "EntityHandle": "1117",
+        "Text": "\u041b\u045a\u0432\u0402\u2122\u0432\u0402\u00a6\u041b\u045a\u0432\u0402\u2122 \u0412\u0459\u0432\u0402\u2116\u0432\u0402\u00b0\u041b\u045a\u0412\u0403 \n3294012 ' \u0432\u0402\u0098\u0412\u040b \u0432\u0402\u201d\u0432\u0402\u00b0\u0412\u0459\n\u0432\u0402\u201d\"\u0412\u040b 2000\n'\u0412\u040b +515"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            196620.7261,
+            561796.7239
+          ],
+          [
+            204890.7997,
+            561796.7239
+          ],
+          [
+            204890.7997,
+            566043.5843
+          ],
+          [
+            196620.7261,
+            566043.5843
+          ],
+          [
+            196620.7261,
+            561796.7239
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "0",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbPolyline",
+        "Linetype": "Continuous",
+        "EntityHandle": "1138",
+        "Text": null
+      }
+    }
+  ]
+}

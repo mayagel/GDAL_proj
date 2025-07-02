@@ -1,0 +1,540 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            183416.3371,
+            573842.4476
+          ],
+          [
+            183487.9841,
+            573857.8556
+          ],
+          [
+            183563.4831,
+            573953.3849
+          ],
+          [
+            183652.0789,
+            574136.7396
+          ],
+          [
+            183523.9937,
+            574220.3325
+          ],
+          [
+            183595.0694,
+            574327.7983
+          ],
+          [
+            183689.8284,
+            574432.5724
+          ],
+          [
+            183740.6746,
+            574830.8681
+          ],
+          [
+            183749.149,
+            574937.9534
+          ],
+          [
+            183971.1937,
+            574946.0306
+          ],
+          [
+            184024.8248,
+            574993.1731
+          ],
+          [
+            183981.8573,
+            575167.0505
+          ],
+          [
+            183930.0962,
+            575419.8373
+          ],
+          [
+            183816.944,
+            575847.1674
+          ],
+          [
+            183686.9394,
+            576340.7036
+          ],
+          [
+            183599.0658,
+            576688.5864
+          ],
+          [
+            183601.7256,
+            576937.5675
+          ],
+          [
+            183620.9548,
+            577128.8727
+          ],
+          [
+            183650.045,
+            577256.0808
+          ],
+          [
+            183680.1213,
+            577368.0042
+          ],
+          [
+            183750.1351,
+            577558.3233
+          ],
+          [
+            183699.3505,
+            577885.2186
+          ],
+          [
+            183630.5077,
+            578308.4444
+          ],
+          [
+            183607.3958,
+            578480.2431
+          ],
+          [
+            183591.2174,
+            578607.3587
+          ],
+          [
+            183560.4015,
+            578634.3227
+          ],
+          [
+            183226.0488,
+            578834.6261
+          ],
+          [
+            183118.1931,
+            578903.9619
+          ],
+          [
+            183011.8782,
+            579047.256
+          ],
+          [
+            183004.1742,
+            579085.0055
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "KAV",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbPolyline",
+        "Linetype": "Continuous",
+        "EntityHandle": "2A5",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.0,
+          230.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "WatermarkLayer",
+        "PaperSpace": 1,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": null,
+        "EntityHandle": "2D3",
+        "Text": "Evaluation only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0,
+          230.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "WatermarkLayer",
+        "PaperSpace": 1,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": null,
+        "EntityHandle": "2D4",
+        "Text": "Evaluation only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0,
+          230.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "WatermarkLayer",
+        "PaperSpace": 1,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": null,
+        "EntityHandle": "2D5",
+        "Text": "Evaluation only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0,
+          230.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "WatermarkLayer",
+        "PaperSpace": 1,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": null,
+        "EntityHandle": "2D6",
+        "Text": "Evaluation only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          184.0,
+          230.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "WatermarkLayer",
+        "PaperSpace": 1,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": null,
+        "EntityHandle": "2D7",
+        "Text": "Evaluation only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          235.0,
+          230.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "WatermarkLayer",
+        "PaperSpace": 1,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": null,
+        "EntityHandle": "2D8",
+        "Text": "Evaluation only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          286.0,
+          230.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "WatermarkLayer",
+        "PaperSpace": 1,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": null,
+        "EntityHandle": "2D9",
+        "Text": "Evaluation only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.0,
+          140.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "WatermarkLayer",
+        "PaperSpace": 1,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": null,
+        "EntityHandle": "2DA",
+        "Text": "Evaluation only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0,
+          140.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "WatermarkLayer",
+        "PaperSpace": 1,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": null,
+        "EntityHandle": "2DB",
+        "Text": "Evaluation only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0,
+          140.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "WatermarkLayer",
+        "PaperSpace": 1,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": null,
+        "EntityHandle": "2DC",
+        "Text": "Evaluation only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0,
+          140.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "WatermarkLayer",
+        "PaperSpace": 1,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": null,
+        "EntityHandle": "2DD",
+        "Text": "Evaluation only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          184.0,
+          140.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "WatermarkLayer",
+        "PaperSpace": 1,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": null,
+        "EntityHandle": "2DE",
+        "Text": "Evaluation only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          235.0,
+          140.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "WatermarkLayer",
+        "PaperSpace": 1,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": null,
+        "EntityHandle": "2DF",
+        "Text": "Evaluation only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          286.0,
+          140.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "WatermarkLayer",
+        "PaperSpace": 1,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": null,
+        "EntityHandle": "2E0",
+        "Text": "Evaluation only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -20.0,
+          50.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "WatermarkLayer",
+        "PaperSpace": 1,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": null,
+        "EntityHandle": "2E1",
+        "Text": "Evaluation only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.0,
+          50.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "WatermarkLayer",
+        "PaperSpace": 1,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": null,
+        "EntityHandle": "2E2",
+        "Text": "Evaluation only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.0,
+          50.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "WatermarkLayer",
+        "PaperSpace": 1,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": null,
+        "EntityHandle": "2E3",
+        "Text": "Evaluation only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.0,
+          50.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "WatermarkLayer",
+        "PaperSpace": 1,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": null,
+        "EntityHandle": "2E4",
+        "Text": "Evaluation only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          184.0,
+          50.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "WatermarkLayer",
+        "PaperSpace": 1,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": null,
+        "EntityHandle": "2E5",
+        "Text": "Evaluation only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          235.0,
+          50.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "WatermarkLayer",
+        "PaperSpace": 1,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": null,
+        "EntityHandle": "2E6",
+        "Text": "Evaluation only."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          286.0,
+          50.0,
+          0.0
+        ]
+      },
+      "properties": {
+        "Layer": "WatermarkLayer",
+        "PaperSpace": 1,
+        "SubClasses": "AcDbEntity:AcDbMText",
+        "Linetype": null,
+        "EntityHandle": "2E7",
+        "Text": "Evaluation only."
+      }
+    }
+  ]
+}
