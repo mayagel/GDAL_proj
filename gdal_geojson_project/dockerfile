@@ -1,5 +1,8 @@
 FROM python:3.11-slim
 
+# Set environment variable for .NET globalization
+ENV DOTNET_SYSTEM_GLOBALIZATION_INVARIANT=1
+
 RUN apt-get update && \
     apt-get install -y gdal-bin libgdal-dev && \
     rm -rf /var/lib/apt/lists/*
@@ -8,6 +11,6 @@ WORKDIR /app
 
 COPY . /app
 
-RUN pip install --no-cache-dir -r requirements.txt
+# RUN pip install --no-cache-dir -r requirements.txt
 
-CMD ["python", "examples.py"]
+# CMD ["python", "app/src/examples.py"]
