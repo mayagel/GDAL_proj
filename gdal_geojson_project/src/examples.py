@@ -9,7 +9,7 @@ def main():
         return base.replace("\\", "__").replace("/", "__") + ".json"
 
     # Process all .gdb files in files\gdb_to_geojson (not directories)
-    gdb_dir = r'files\\gdb_to_geojson'
+    gdb_dir = os.path.join('files', 'gdb_to_geojson')
     for root, dirs, files in os.walk(gdb_dir):
         for file in dirs:
             if file.lower().endswith('.gdb'):
@@ -25,7 +25,7 @@ def main():
 
 
     # Process all .dwg files in files\dwg_to_geojson
-    dwg_dir = r'files\\dwg_to_geojson'
+    dwg_dir = os.path.join('files', 'dwg_to_geojson')
     for root, dirs, files in os.walk(dwg_dir):
         for file in files:
             if file.lower().endswith('.dwg'):

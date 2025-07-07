@@ -1,0 +1,4577 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.7419,
+            194.0722,
+            0.0
+          ],
+          [
+            144.7419,
+            308.6707,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Center",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "CENTER",
+        "EntityHandle": "977",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            594.7412,
+            13.7115,
+            0.0
+          ],
+          [
+            594.7412,
+            268.1612,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "978",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            322.7412,
+            13.7115,
+            0.0
+          ],
+          [
+            322.7412,
+            293.9415,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "979",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            590.7412,
+            28.2322,
+            0.0
+          ],
+          [
+            590.7412,
+            103.6885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "97A",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            432.2112,
+            244.6885,
+            0.0
+          ],
+          [
+            434.6829,
+            244.6885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "97B",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            536.0212,
+            174.1885,
+            0.0
+          ],
+          [
+            536.0212,
+            181.1832,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "97C",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            330.7412,
+            98.6885,
+            0.0
+          ],
+          [
+            586.7412,
+            98.6885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "LAYER11A",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "97D",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            322.7412,
+            103.6885,
+            0.0
+          ],
+          [
+            594.7412,
+            103.6885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "LAYER11A",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "97E",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            594.7412,
+            103.6885,
+            0.0
+          ],
+          [
+            594.7412,
+            98.6885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "LAYER11A",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "97F",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            322.7412,
+            103.6885,
+            0.0
+          ],
+          [
+            322.7412,
+            79.6885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "LAYER11A",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "980",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            322.7412,
+            79.6885,
+            0.0
+          ],
+          [
+            330.7412,
+            79.6885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "LAYER11A",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "981",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            330.7412,
+            79.6885,
+            0.0
+          ],
+          [
+            330.7412,
+            103.6885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "LAYER11A",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "982",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            594.7412,
+            103.6885,
+            0.0
+          ],
+          [
+            594.7412,
+            79.6885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "LAYER11A",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "983",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            586.7412,
+            79.6885,
+            0.0
+          ],
+          [
+            586.7412,
+            103.6885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "LAYER11A",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "984",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            432.2112,
+            244.6885,
+            0.0
+          ],
+          [
+            322.7412,
+            244.6885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Conc",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "985",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            326.7412,
+            28.2322,
+            0.0
+          ],
+          [
+            326.7412,
+            103.6885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "986",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            330.7412,
+            79.6885,
+            0.0
+          ],
+          [
+            586.7412,
+            79.6885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "LAYER11A",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "987",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            586.7412,
+            79.6885,
+            0.0
+          ],
+          [
+            594.7412,
+            79.6885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "LAYER11A",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "988",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            432.2112,
+            231.1885,
+            0.0
+          ],
+          [
+            432.2112,
+            244.6885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "989",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            432.2112,
+            239.1885,
+            0.0
+          ],
+          [
+            429.9612,
+            239.1885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "98A",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            432.2112,
+            231.1885,
+            0.0
+          ],
+          [
+            429.9612,
+            231.1885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "98B",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            431.733,
+            238.746,
+            0.0
+          ],
+          [
+            430.0753,
+            238.891,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "98C",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            431.9612,
+            231.8801,
+            0.0
+          ],
+          [
+            431.9612,
+            238.4969,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "98D",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            431.73298893568693,
+            238.74594867452294,
+            0.0
+          ],
+          [
+            431.7497208328636,
+            238.74391446402083,
+            0.0
+          ],
+          [
+            431.76627763319664,
+            238.74075744672137,
+            0.0
+          ],
+          [
+            431.78258407757914,
+            238.73649197287926,
+            0.0
+          ],
+          [
+            431.7985660448998,
+            238.73113743124995,
+            0.0
+          ],
+          [
+            431.814150888961,
+            238.7247181609577,
+            0.0
+          ],
+          [
+            431.82926776869317,
+            238.7172633408619,
+            0.0
+          ],
+          [
+            431.8438479701634,
+            238.70880685692433,
+            0.0
+          ],
+          [
+            431.8578252189152,
+            238.69938714818002,
+            0.0
+          ],
+          [
+            431.8711359812201,
+            238.6890470320124,
+            0.0
+          ],
+          [
+            431.88371975287055,
+            238.67783350952627,
+            0.0
+          ],
+          [
+            431.89551933420256,
+            238.66579755190392,
+            0.0
+          ],
+          [
+            431.9064810900973,
+            238.65299386871501,
+            0.0
+          ],
+          [
+            431.91655519378014,
+            238.63948065923375,
+            0.0
+          ],
+          [
+            431.92569585330875,
+            238.62531934789337,
+            0.0
+          ],
+          [
+            431.9338615197209,
+            238.6105743050808,
+            0.0
+          ],
+          [
+            431.94101507589545,
+            238.5953125545405,
+            0.0
+          ],
+          [
+            431.947124005269,
+            238.57960346871712,
+            0.0
+          ],
+          [
+            431.95216053964003,
+            238.56351845342252,
+            0.0
+          ],
+          [
+            431.9561017853894,
+            238.54713062325985,
+            0.0
+          ],
+          [
+            431.95892982754407,
+            238.5305144692804,
+            0.0
+          ],
+          [
+            431.960631811209,
+            238.51374552038365,
+            0.0
+          ],
+          [
+            431.9612,
+            238.4969,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbCircle:AcDbArc",
+        "Linetype": "Continuous",
+        "EntityHandle": "98E",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            431.733,
+            231.631,
+            0.0
+          ],
+          [
+            430.0753,
+            231.486,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "98F",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            431.9612,
+            231.8801,
+            0.0
+          ],
+          [
+            431.960631811209,
+            231.86325447961636,
+            0.0
+          ],
+          [
+            431.95892982754407,
+            231.8464855307196,
+            0.0
+          ],
+          [
+            431.9561017853894,
+            231.82986937674016,
+            0.0
+          ],
+          [
+            431.95216053964003,
+            231.8134815465775,
+            0.0
+          ],
+          [
+            431.947124005269,
+            231.79739653128289,
+            0.0
+          ],
+          [
+            431.94101507589545,
+            231.7816874454595,
+            0.0
+          ],
+          [
+            431.9338615197209,
+            231.7664256949192,
+            0.0
+          ],
+          [
+            431.92569585330875,
+            231.75168065210664,
+            0.0
+          ],
+          [
+            431.91655519378014,
+            231.73751934076626,
+            0.0
+          ],
+          [
+            431.9064810900973,
+            231.724006131285,
+            0.0
+          ],
+          [
+            431.89551933420256,
+            231.7112024480961,
+            0.0
+          ],
+          [
+            431.88371975287055,
+            231.69916649047374,
+            0.0
+          ],
+          [
+            431.8711359812201,
+            231.6879529679876,
+            0.0
+          ],
+          [
+            431.8578252189152,
+            231.67761285182,
+            0.0
+          ],
+          [
+            431.8438479701634,
+            231.66819314307568,
+            0.0
+          ],
+          [
+            431.82926776869317,
+            231.6597366591381,
+            0.0
+          ],
+          [
+            431.814150888961,
+            231.6522818390423,
+            0.0
+          ],
+          [
+            431.7985660448998,
+            231.64586256875006,
+            0.0
+          ],
+          [
+            431.78258407757914,
+            231.64050802712075,
+            0.0
+          ],
+          [
+            431.76627763319664,
+            231.63624255327863,
+            0.0
+          ],
+          [
+            431.7497208328636,
+            231.63308553597918,
+            0.0
+          ],
+          [
+            431.73298893568693,
+            231.63105132547707,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbCircle:AcDbArc",
+        "Linetype": "Continuous",
+        "EntityHandle": "990",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            429.9612,
+            239.1885,
+            0.0
+          ],
+          [
+            429.9612,
+            239.0155,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "991",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            429.9612,
+            231.3615,
+            0.0
+          ],
+          [
+            429.9612,
+            231.1885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "992",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            430.07530553215656,
+            238.89097566273853,
+            0.0
+          ],
+          [
+            430.0669395835682,
+            238.8919927679896,
+            0.0
+          ],
+          [
+            430.0586611834017,
+            238.89357127663934,
+            0.0
+          ],
+          [
+            430.0505079612104,
+            238.89570401356036,
+            0.0
+          ],
+          [
+            430.0425169775501,
+            238.89838128437503,
+            0.0
+          ],
+          [
+            430.0347245555195,
+            238.90159091952117,
+            0.0
+          ],
+          [
+            430.0271661156534,
+            238.90531832956904,
+            0.0
+          ],
+          [
+            430.01987601491834,
+            238.90954657153785,
+            0.0
+          ],
+          [
+            430.01288739054246,
+            238.91425642591,
+            0.0
+          ],
+          [
+            430.00623200939,
+            238.91942648399382,
+            0.0
+          ],
+          [
+            429.9999401235648,
+            238.92503324523688,
+            0.0
+          ],
+          [
+            429.99404033289875,
+            238.93105122404805,
+            0.0
+          ],
+          [
+            429.98855945495137,
+            238.9374530656425,
+            0.0
+          ],
+          [
+            429.98352240310993,
+            238.94420967038315,
+            0.0
+          ],
+          [
+            429.9789520733456,
+            238.95129032605334,
+            0.0
+          ],
+          [
+            429.9748692401396,
+            238.9586628474596,
+            0.0
+          ],
+          [
+            429.9712924620523,
+            238.96629372272977,
+            0.0
+          ],
+          [
+            429.9682379973655,
+            238.97414826564145,
+            0.0
+          ],
+          [
+            429.96571973018,
+            238.98219077328875,
+            0.0
+          ],
+          [
+            429.9637491073053,
+            238.99038468837009,
+            0.0
+          ],
+          [
+            429.962335086228,
+            238.9986927653598,
+            0.0
+          ],
+          [
+            429.96148409439553,
+            239.00707723980818,
+            0.0
+          ],
+          [
+            429.9612,
+            239.0155,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbCircle:AcDbArc",
+        "Linetype": "Continuous",
+        "EntityHandle": "993",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            429.9612,
+            231.3615,
+            0.0
+          ],
+          [
+            429.96148409439553,
+            231.36992276019183,
+            0.0
+          ],
+          [
+            429.962335086228,
+            231.3783072346402,
+            0.0
+          ],
+          [
+            429.9637491073053,
+            231.38661531162992,
+            0.0
+          ],
+          [
+            429.96571973018,
+            231.39480922671126,
+            0.0
+          ],
+          [
+            429.9682379973655,
+            231.40285173435856,
+            0.0
+          ],
+          [
+            429.9712924620523,
+            231.41070627727024,
+            0.0
+          ],
+          [
+            429.9748692401396,
+            231.4183371525404,
+            0.0
+          ],
+          [
+            429.9789520733456,
+            231.42570967394667,
+            0.0
+          ],
+          [
+            429.98352240310993,
+            231.43279032961686,
+            0.0
+          ],
+          [
+            429.98855945495137,
+            231.4395469343575,
+            0.0
+          ],
+          [
+            429.99404033289875,
+            231.44594877595196,
+            0.0
+          ],
+          [
+            429.9999401235648,
+            231.45196675476313,
+            0.0
+          ],
+          [
+            430.00623200939,
+            231.4575735160062,
+            0.0
+          ],
+          [
+            430.01288739054246,
+            231.46274357409,
+            0.0
+          ],
+          [
+            430.01987601491834,
+            231.46745342846216,
+            0.0
+          ],
+          [
+            430.0271661156534,
+            231.47168167043097,
+            0.0
+          ],
+          [
+            430.0347245555195,
+            231.47540908047884,
+            0.0
+          ],
+          [
+            430.0425169775501,
+            231.47861871562498,
+            0.0
+          ],
+          [
+            430.0505079612104,
+            231.48129598643965,
+            0.0
+          ],
+          [
+            430.0586611834017,
+            231.48342872336067,
+            0.0
+          ],
+          [
+            430.0669395835682,
+            231.48500723201042,
+            0.0
+          ],
+          [
+            430.07530553215656,
+            231.48602433726148,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbCircle:AcDbArc",
+        "Linetype": "Continuous",
+        "EntityHandle": "994",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            430.6162,
+            239.1885,
+            0.0
+          ],
+          [
+            322.7412,
+            239.1885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Conc",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "995",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            322.7412,
+            244.6885,
+            0.0
+          ],
+          [
+            322.7412,
+            239.1885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Conc",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "996",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            432.2112,
+            244.6885,
+            0.0
+          ],
+          [
+            432.2112,
+            239.1885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Conc",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "997",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            533.2412,
+            160.1885,
+            0.0
+          ],
+          [
+            533.2412,
+            104.4385,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "LAYER131A",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "998",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            536.2412,
+            160.1885,
+            0.0
+          ],
+          [
+            536.2412,
+            104.4385,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "LAYER131A",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "999",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            533.4912,
+            159.6885,
+            0.0
+          ],
+          [
+            533.4912,
+            104.4385,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "LAYER131D",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "HIDDEN",
+        "EntityHandle": "99A",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            535.9912,
+            159.6885,
+            0.0
+          ],
+          [
+            535.9912,
+            104.4385,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "LAYER131D",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "HIDDEN",
+        "EntityHandle": "99B",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            432.2112,
+            240.6885,
+            0.0
+          ],
+          [
+            322.7412,
+            240.6885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Conc",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "99C",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            361.8922,
+            239.1885,
+            0.0
+          ],
+          [
+            359.6422,
+            239.1885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "99D",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            361.8922,
+            231.1885,
+            0.0
+          ],
+          [
+            359.6422,
+            231.1885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "99E",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            361.414,
+            238.746,
+            0.0
+          ],
+          [
+            359.7563,
+            238.891,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "99F",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            361.6422,
+            231.8801,
+            0.0
+          ],
+          [
+            361.6422,
+            238.4969,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9A0",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            361.4139889356869,
+            238.74594867452294,
+            0.0
+          ],
+          [
+            361.4307208328636,
+            238.74391446402083,
+            0.0
+          ],
+          [
+            361.4472776331966,
+            238.74075744672137,
+            0.0
+          ],
+          [
+            361.4635840775791,
+            238.73649197287926,
+            0.0
+          ],
+          [
+            361.4795660448998,
+            238.73113743124995,
+            0.0
+          ],
+          [
+            361.495150888961,
+            238.7247181609577,
+            0.0
+          ],
+          [
+            361.51026776869315,
+            238.7172633408619,
+            0.0
+          ],
+          [
+            361.52484797016336,
+            238.70880685692433,
+            0.0
+          ],
+          [
+            361.5388252189152,
+            238.69938714818002,
+            0.0
+          ],
+          [
+            361.5521359812201,
+            238.6890470320124,
+            0.0
+          ],
+          [
+            361.56471975287053,
+            238.67783350952627,
+            0.0
+          ],
+          [
+            361.57651933420254,
+            238.66579755190392,
+            0.0
+          ],
+          [
+            361.5874810900973,
+            238.65299386871501,
+            0.0
+          ],
+          [
+            361.5975551937801,
+            238.63948065923375,
+            0.0
+          ],
+          [
+            361.60669585330874,
+            238.62531934789337,
+            0.0
+          ],
+          [
+            361.6148615197209,
+            238.6105743050808,
+            0.0
+          ],
+          [
+            361.62201507589543,
+            238.5953125545405,
+            0.0
+          ],
+          [
+            361.628124005269,
+            238.57960346871712,
+            0.0
+          ],
+          [
+            361.63316053964,
+            238.56351845342252,
+            0.0
+          ],
+          [
+            361.6371017853894,
+            238.54713062325985,
+            0.0
+          ],
+          [
+            361.63992982754405,
+            238.5305144692804,
+            0.0
+          ],
+          [
+            361.641631811209,
+            238.51374552038365,
+            0.0
+          ],
+          [
+            361.6422,
+            238.4969,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbCircle:AcDbArc",
+        "Linetype": "Continuous",
+        "EntityHandle": "9A1",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            361.414,
+            231.631,
+            0.0
+          ],
+          [
+            359.7563,
+            231.486,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9A2",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            361.6422,
+            231.8801,
+            0.0
+          ],
+          [
+            361.641631811209,
+            231.86325447961636,
+            0.0
+          ],
+          [
+            361.63992982754405,
+            231.8464855307196,
+            0.0
+          ],
+          [
+            361.6371017853894,
+            231.82986937674016,
+            0.0
+          ],
+          [
+            361.63316053964,
+            231.8134815465775,
+            0.0
+          ],
+          [
+            361.628124005269,
+            231.79739653128289,
+            0.0
+          ],
+          [
+            361.62201507589543,
+            231.7816874454595,
+            0.0
+          ],
+          [
+            361.6148615197209,
+            231.7664256949192,
+            0.0
+          ],
+          [
+            361.60669585330874,
+            231.75168065210664,
+            0.0
+          ],
+          [
+            361.5975551937801,
+            231.73751934076626,
+            0.0
+          ],
+          [
+            361.5874810900973,
+            231.724006131285,
+            0.0
+          ],
+          [
+            361.57651933420254,
+            231.7112024480961,
+            0.0
+          ],
+          [
+            361.56471975287053,
+            231.69916649047374,
+            0.0
+          ],
+          [
+            361.5521359812201,
+            231.6879529679876,
+            0.0
+          ],
+          [
+            361.5388252189152,
+            231.67761285182,
+            0.0
+          ],
+          [
+            361.52484797016336,
+            231.66819314307568,
+            0.0
+          ],
+          [
+            361.51026776869315,
+            231.6597366591381,
+            0.0
+          ],
+          [
+            361.495150888961,
+            231.6522818390423,
+            0.0
+          ],
+          [
+            361.4795660448998,
+            231.64586256875006,
+            0.0
+          ],
+          [
+            361.4635840775791,
+            231.64050802712075,
+            0.0
+          ],
+          [
+            361.4472776331966,
+            231.63624255327863,
+            0.0
+          ],
+          [
+            361.4307208328636,
+            231.63308553597918,
+            0.0
+          ],
+          [
+            361.4139889356869,
+            231.63105132547707,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbCircle:AcDbArc",
+        "Linetype": "Continuous",
+        "EntityHandle": "9A3",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            359.6422,
+            239.1885,
+            0.0
+          ],
+          [
+            359.6422,
+            239.0155,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9A4",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            359.6422,
+            231.3615,
+            0.0
+          ],
+          [
+            359.6422,
+            231.1885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9A5",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            359.75630553215655,
+            238.89097566273853,
+            0.0
+          ],
+          [
+            359.7479395835682,
+            238.8919927679896,
+            0.0
+          ],
+          [
+            359.73966118340167,
+            238.89357127663934,
+            0.0
+          ],
+          [
+            359.7315079612104,
+            238.89570401356036,
+            0.0
+          ],
+          [
+            359.7235169775501,
+            238.89838128437503,
+            0.0
+          ],
+          [
+            359.7157245555195,
+            238.90159091952117,
+            0.0
+          ],
+          [
+            359.7081661156534,
+            238.90531832956904,
+            0.0
+          ],
+          [
+            359.7008760149183,
+            238.90954657153785,
+            0.0
+          ],
+          [
+            359.69388739054244,
+            238.91425642591,
+            0.0
+          ],
+          [
+            359.68723200938996,
+            238.91942648399382,
+            0.0
+          ],
+          [
+            359.6809401235647,
+            238.92503324523688,
+            0.0
+          ],
+          [
+            359.67504033289873,
+            238.93105122404805,
+            0.0
+          ],
+          [
+            359.66955945495135,
+            238.9374530656425,
+            0.0
+          ],
+          [
+            359.6645224031099,
+            238.94420967038315,
+            0.0
+          ],
+          [
+            359.6599520733456,
+            238.95129032605334,
+            0.0
+          ],
+          [
+            359.65586924013957,
+            238.9586628474596,
+            0.0
+          ],
+          [
+            359.6522924620523,
+            238.96629372272977,
+            0.0
+          ],
+          [
+            359.6492379973655,
+            238.97414826564145,
+            0.0
+          ],
+          [
+            359.64671973018,
+            238.98219077328875,
+            0.0
+          ],
+          [
+            359.6447491073053,
+            238.99038468837009,
+            0.0
+          ],
+          [
+            359.643335086228,
+            238.9986927653598,
+            0.0
+          ],
+          [
+            359.6424840943955,
+            239.00707723980818,
+            0.0
+          ],
+          [
+            359.6422,
+            239.0155,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbCircle:AcDbArc",
+        "Linetype": "Continuous",
+        "EntityHandle": "9A6",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            359.6422,
+            231.3615,
+            0.0
+          ],
+          [
+            359.6424840943955,
+            231.36992276019183,
+            0.0
+          ],
+          [
+            359.643335086228,
+            231.3783072346402,
+            0.0
+          ],
+          [
+            359.6447491073053,
+            231.38661531162992,
+            0.0
+          ],
+          [
+            359.64671973018,
+            231.39480922671126,
+            0.0
+          ],
+          [
+            359.6492379973655,
+            231.40285173435856,
+            0.0
+          ],
+          [
+            359.6522924620523,
+            231.41070627727024,
+            0.0
+          ],
+          [
+            359.65586924013957,
+            231.4183371525404,
+            0.0
+          ],
+          [
+            359.6599520733456,
+            231.42570967394667,
+            0.0
+          ],
+          [
+            359.6645224031099,
+            231.43279032961686,
+            0.0
+          ],
+          [
+            359.66955945495135,
+            231.4395469343575,
+            0.0
+          ],
+          [
+            359.67504033289873,
+            231.44594877595196,
+            0.0
+          ],
+          [
+            359.68094012356477,
+            231.45196675476313,
+            0.0
+          ],
+          [
+            359.68723200938996,
+            231.4575735160062,
+            0.0
+          ],
+          [
+            359.69388739054244,
+            231.46274357409,
+            0.0
+          ],
+          [
+            359.7008760149183,
+            231.46745342846216,
+            0.0
+          ],
+          [
+            359.7081661156534,
+            231.47168167043097,
+            0.0
+          ],
+          [
+            359.7157245555195,
+            231.47540908047884,
+            0.0
+          ],
+          [
+            359.7235169775501,
+            231.47861871562498,
+            0.0
+          ],
+          [
+            359.7315079612104,
+            231.48129598643965,
+            0.0
+          ],
+          [
+            359.73966118340167,
+            231.48342872336067,
+            0.0
+          ],
+          [
+            359.7479395835682,
+            231.48500723201042,
+            0.0
+          ],
+          [
+            359.75630553215655,
+            231.48602433726148,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbCircle:AcDbArc",
+        "Linetype": "Continuous",
+        "EntityHandle": "9A7",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            361.8922,
+            239.1885,
+            0.0
+          ],
+          [
+            361.8922,
+            231.1885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9A8",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            529.7412,
+            103.6885
+          ],
+          [
+            539.7412,
+            103.6885
+          ],
+          [
+            539.7412,
+            104.4385
+          ],
+          [
+            529.7412,
+            104.4385
+          ],
+          [
+            529.7412,
+            103.6885
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_BP",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbPolyline",
+        "Linetype": "Continuous",
+        "EntityHandle": "9A9",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            538.1152,
+            106.1602,
+            0.0
+          ],
+          [
+            538.1152,
+            105.1189,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9AA",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            538.8673,
+            106.1602,
+            0.0
+          ],
+          [
+            538.8673,
+            105.1189,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9AB",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            539.6122,
+            104.6241,
+            0.0
+          ],
+          [
+            537.3703,
+            104.6241,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9AC",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            539.6122,
+            104.4385,
+            0.0
+          ],
+          [
+            537.3703,
+            104.4385,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9AD",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            539.6122,
+            104.6241,
+            0.0
+          ],
+          [
+            539.6122,
+            104.4385,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9AE",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            538.1152,
+            105.1189,
+            0.0
+          ],
+          [
+            538.1152,
+            85.4385,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9AF",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            538.8673,
+            105.1189,
+            0.0
+          ],
+          [
+            538.8673,
+            85.4385,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9B0",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            538.8673,
+            85.4385,
+            0.0
+          ],
+          [
+            538.1152,
+            85.4385,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9B1",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            539.3622,
+            105.1189,
+            0.0
+          ],
+          [
+            537.6203,
+            105.1189,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9B2",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            539.3622,
+            105.1189,
+            0.0
+          ],
+          [
+            539.3622,
+            104.6241,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9B3",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            537.6203,
+            105.1189,
+            0.0
+          ],
+          [
+            537.6203,
+            104.6241,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9B4",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            538.8673,
+            106.1602,
+            0.0
+          ],
+          [
+            538.1152,
+            106.1602,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9B5",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            537.3703,
+            104.6241,
+            0.0
+          ],
+          [
+            537.3703,
+            104.4385,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9B6",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            531.3673,
+            106.1602,
+            0.0
+          ],
+          [
+            531.3673,
+            105.1189,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9B7",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            530.6152,
+            106.1602,
+            0.0
+          ],
+          [
+            530.6152,
+            105.1189,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9B8",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            529.8703,
+            104.6241,
+            0.0
+          ],
+          [
+            532.1122,
+            104.6241,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9B9",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            529.8703,
+            104.4385,
+            0.0
+          ],
+          [
+            532.1122,
+            104.4385,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9BA",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            531.3673,
+            105.1189,
+            0.0
+          ],
+          [
+            531.3673,
+            85.4385,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9BB",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            530.6152,
+            105.1189,
+            0.0
+          ],
+          [
+            530.6152,
+            85.4385,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9BC",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            530.6152,
+            85.4385,
+            0.0
+          ],
+          [
+            531.3673,
+            85.4385,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9BD",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            530.1203,
+            105.1189,
+            0.0
+          ],
+          [
+            531.8622,
+            105.1189,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9BE",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            530.1203,
+            105.1189,
+            0.0
+          ],
+          [
+            530.1203,
+            104.6241,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9BF",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            531.8622,
+            105.1189,
+            0.0
+          ],
+          [
+            531.8622,
+            104.6241,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9C0",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            530.6152,
+            106.1602,
+            0.0
+          ],
+          [
+            531.3673,
+            106.1602,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9C1",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            532.1122,
+            104.6241,
+            0.0
+          ],
+          [
+            532.1122,
+            104.4385,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9C2",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            529.8703,
+            104.6241,
+            0.0
+          ],
+          [
+            529.8703,
+            104.4385,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "C-241-1",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9C3",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            590.7412,
+            150.2039,
+            0.0
+          ],
+          [
+            590.7412,
+            280.4918,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9C4",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            534.7412,
+            103.6885,
+            0.0
+          ],
+          [
+            534.7412,
+            231.1464,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9C5",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            326.7326,
+            206.3886,
+            0.0
+          ],
+          [
+            326.7326,
+            293.9415,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9C6",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            397.0517,
+            239.1885,
+            0.0
+          ],
+          [
+            394.8017,
+            239.1885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9C7",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            397.0517,
+            231.1885,
+            0.0
+          ],
+          [
+            394.8017,
+            231.1885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9C8",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            396.5735,
+            238.746,
+            0.0
+          ],
+          [
+            394.9158,
+            238.891,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9C9",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            396.8017,
+            231.8801,
+            0.0
+          ],
+          [
+            396.8017,
+            238.4969,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9CA",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            396.5734889356869,
+            238.74594867452294,
+            0.0
+          ],
+          [
+            396.59022083286357,
+            238.74391446402083,
+            0.0
+          ],
+          [
+            396.6067776331966,
+            238.74075744672137,
+            0.0
+          ],
+          [
+            396.6230840775791,
+            238.73649197287926,
+            0.0
+          ],
+          [
+            396.6390660448998,
+            238.73113743124995,
+            0.0
+          ],
+          [
+            396.654650888961,
+            238.7247181609577,
+            0.0
+          ],
+          [
+            396.66976776869313,
+            238.7172633408619,
+            0.0
+          ],
+          [
+            396.68434797016334,
+            238.70880685692433,
+            0.0
+          ],
+          [
+            396.69832521891516,
+            238.69938714818002,
+            0.0
+          ],
+          [
+            396.71163598122007,
+            238.6890470320124,
+            0.0
+          ],
+          [
+            396.7242197528705,
+            238.67783350952627,
+            0.0
+          ],
+          [
+            396.7360193342025,
+            238.66579755190392,
+            0.0
+          ],
+          [
+            396.7469810900973,
+            238.65299386871501,
+            0.0
+          ],
+          [
+            396.7570551937801,
+            238.63948065923375,
+            0.0
+          ],
+          [
+            396.7661958533087,
+            238.62531934789337,
+            0.0
+          ],
+          [
+            396.77436151972086,
+            238.6105743050808,
+            0.0
+          ],
+          [
+            396.7815150758954,
+            238.5953125545405,
+            0.0
+          ],
+          [
+            396.787624005269,
+            238.57960346871712,
+            0.0
+          ],
+          [
+            396.79266053964,
+            238.56351845342252,
+            0.0
+          ],
+          [
+            396.7966017853894,
+            238.54713062325985,
+            0.0
+          ],
+          [
+            396.79942982754403,
+            238.5305144692804,
+            0.0
+          ],
+          [
+            396.80113181120896,
+            238.51374552038365,
+            0.0
+          ],
+          [
+            396.8017,
+            238.4969,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbCircle:AcDbArc",
+        "Linetype": "Continuous",
+        "EntityHandle": "9CB",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            396.5735,
+            231.631,
+            0.0
+          ],
+          [
+            394.9158,
+            231.486,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9CC",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            396.8017,
+            231.8801,
+            0.0
+          ],
+          [
+            396.80113181120896,
+            231.86325447961636,
+            0.0
+          ],
+          [
+            396.79942982754403,
+            231.8464855307196,
+            0.0
+          ],
+          [
+            396.7966017853894,
+            231.82986937674016,
+            0.0
+          ],
+          [
+            396.79266053964,
+            231.8134815465775,
+            0.0
+          ],
+          [
+            396.787624005269,
+            231.79739653128289,
+            0.0
+          ],
+          [
+            396.7815150758954,
+            231.7816874454595,
+            0.0
+          ],
+          [
+            396.77436151972086,
+            231.7664256949192,
+            0.0
+          ],
+          [
+            396.7661958533087,
+            231.75168065210664,
+            0.0
+          ],
+          [
+            396.7570551937801,
+            231.73751934076626,
+            0.0
+          ],
+          [
+            396.7469810900973,
+            231.724006131285,
+            0.0
+          ],
+          [
+            396.7360193342025,
+            231.7112024480961,
+            0.0
+          ],
+          [
+            396.7242197528705,
+            231.69916649047374,
+            0.0
+          ],
+          [
+            396.71163598122007,
+            231.6879529679876,
+            0.0
+          ],
+          [
+            396.69832521891516,
+            231.67761285182,
+            0.0
+          ],
+          [
+            396.68434797016334,
+            231.66819314307568,
+            0.0
+          ],
+          [
+            396.66976776869313,
+            231.6597366591381,
+            0.0
+          ],
+          [
+            396.654650888961,
+            231.6522818390423,
+            0.0
+          ],
+          [
+            396.6390660448998,
+            231.64586256875006,
+            0.0
+          ],
+          [
+            396.6230840775791,
+            231.64050802712075,
+            0.0
+          ],
+          [
+            396.6067776331966,
+            231.63624255327863,
+            0.0
+          ],
+          [
+            396.59022083286357,
+            231.63308553597918,
+            0.0
+          ],
+          [
+            396.5734889356869,
+            231.63105132547707,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbCircle:AcDbArc",
+        "Linetype": "Continuous",
+        "EntityHandle": "9CD",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            394.8017,
+            239.1885,
+            0.0
+          ],
+          [
+            394.8017,
+            239.0155,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9CE",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            394.8017,
+            231.3615,
+            0.0
+          ],
+          [
+            394.8017,
+            231.1885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9CF",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            394.9158055321565,
+            238.89097566273853,
+            0.0
+          ],
+          [
+            394.9074395835682,
+            238.8919927679896,
+            0.0
+          ],
+          [
+            394.89916118340165,
+            238.89357127663934,
+            0.0
+          ],
+          [
+            394.8910079612104,
+            238.89570401356036,
+            0.0
+          ],
+          [
+            394.8830169775501,
+            238.89838128437503,
+            0.0
+          ],
+          [
+            394.8752245555195,
+            238.90159091952117,
+            0.0
+          ],
+          [
+            394.8676661156534,
+            238.90531832956904,
+            0.0
+          ],
+          [
+            394.8603760149183,
+            238.90954657153785,
+            0.0
+          ],
+          [
+            394.8533873905424,
+            238.91425642591,
+            0.0
+          ],
+          [
+            394.84673200938994,
+            238.91942648399382,
+            0.0
+          ],
+          [
+            394.8404401235647,
+            238.92503324523688,
+            0.0
+          ],
+          [
+            394.8345403328987,
+            238.93105122404805,
+            0.0
+          ],
+          [
+            394.82905945495133,
+            238.9374530656425,
+            0.0
+          ],
+          [
+            394.8240224031099,
+            238.94420967038315,
+            0.0
+          ],
+          [
+            394.8194520733456,
+            238.95129032605334,
+            0.0
+          ],
+          [
+            394.81536924013955,
+            238.9586628474596,
+            0.0
+          ],
+          [
+            394.81179246205227,
+            238.96629372272977,
+            0.0
+          ],
+          [
+            394.8087379973655,
+            238.97414826564145,
+            0.0
+          ],
+          [
+            394.80621973018,
+            238.98219077328875,
+            0.0
+          ],
+          [
+            394.8042491073053,
+            238.99038468837009,
+            0.0
+          ],
+          [
+            394.80283508622796,
+            238.9986927653598,
+            0.0
+          ],
+          [
+            394.8019840943955,
+            239.00707723980818,
+            0.0
+          ],
+          [
+            394.8017,
+            239.0155,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbCircle:AcDbArc",
+        "Linetype": "Continuous",
+        "EntityHandle": "9D0",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            394.8017,
+            231.3615,
+            0.0
+          ],
+          [
+            394.8019840943955,
+            231.36992276019183,
+            0.0
+          ],
+          [
+            394.80283508622796,
+            231.3783072346402,
+            0.0
+          ],
+          [
+            394.8042491073053,
+            231.38661531162992,
+            0.0
+          ],
+          [
+            394.80621973018,
+            231.39480922671126,
+            0.0
+          ],
+          [
+            394.8087379973655,
+            231.40285173435856,
+            0.0
+          ],
+          [
+            394.81179246205227,
+            231.41070627727024,
+            0.0
+          ],
+          [
+            394.81536924013955,
+            231.4183371525404,
+            0.0
+          ],
+          [
+            394.8194520733456,
+            231.42570967394667,
+            0.0
+          ],
+          [
+            394.8240224031099,
+            231.43279032961686,
+            0.0
+          ],
+          [
+            394.82905945495133,
+            231.4395469343575,
+            0.0
+          ],
+          [
+            394.8345403328987,
+            231.44594877595196,
+            0.0
+          ],
+          [
+            394.84044012356475,
+            231.45196675476313,
+            0.0
+          ],
+          [
+            394.84673200938994,
+            231.4575735160062,
+            0.0
+          ],
+          [
+            394.8533873905424,
+            231.46274357409,
+            0.0
+          ],
+          [
+            394.8603760149183,
+            231.46745342846216,
+            0.0
+          ],
+          [
+            394.8676661156534,
+            231.47168167043097,
+            0.0
+          ],
+          [
+            394.8752245555195,
+            231.47540908047884,
+            0.0
+          ],
+          [
+            394.8830169775501,
+            231.47861871562498,
+            0.0
+          ],
+          [
+            394.8910079612104,
+            231.48129598643965,
+            0.0
+          ],
+          [
+            394.89916118340165,
+            231.48342872336067,
+            0.0
+          ],
+          [
+            394.9074395835682,
+            231.48500723201042,
+            0.0
+          ],
+          [
+            394.9158055321565,
+            231.48602433726148,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbCircle:AcDbArc",
+        "Linetype": "Continuous",
+        "EntityHandle": "9D1",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            397.0517,
+            239.1885,
+            0.0
+          ],
+          [
+            397.0517,
+            231.1885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9D2",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            150.7419,
+            170.1885,
+            0.0
+          ],
+          [
+            150.7419,
+            104.4385,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "LAYER131A",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9D3",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            146.7419,
+            170.1885,
+            0.0
+          ],
+          [
+            146.7419,
+            104.4385,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "LAYER131A",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9D4",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            150.4919,
+            170.1885,
+            0.0
+          ],
+          [
+            150.4919,
+            104.4385,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9D5",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            146.9919,
+            170.1885,
+            0.0
+          ],
+          [
+            146.9919,
+            104.4385,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9D6",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.7419,
+            103.6885,
+            0.0
+          ],
+          [
+            179.4533,
+            103.6885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9D7",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            42.7419,
+            170.1885,
+            0.0
+          ],
+          [
+            146.7419,
+            170.1885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9D8",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.2419,
+            169.876,
+            0.0
+          ],
+          [
+            146.2419,
+            169.876,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9D9",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.2419,
+            160.626,
+            0.0
+          ],
+          [
+            146.2419,
+            160.626,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9DA",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            43.2419,
+            160.3135,
+            0.0
+          ],
+          [
+            146.2419,
+            160.3135,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9DB",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.7419,
+            79.6885,
+            0.0
+          ],
+          [
+            36.7419,
+            103.6885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9DC",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            197.6569,
+            243.4003,
+            0.0
+          ],
+          [
+            197.3509,
+            242.9836,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9DD",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            197.3509,
+            242.9836,
+            0.0
+          ],
+          [
+            198.1885,
+            242.4878,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9DE",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            198.1885,
+            242.4878,
+            0.0
+          ],
+          [
+            197.5948,
+            241.9994,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9DF",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            197.5948,
+            241.9994,
+            0.0
+          ],
+          [
+            197.5948,
+            240.2394,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9E0",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            44.7419,
+            98.6885,
+            0.0
+          ],
+          [
+            144.7419,
+            98.6885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9E1",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.7419,
+            103.6885,
+            0.0
+          ],
+          [
+            36.7419,
+            308.6707,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Center",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "CENTER",
+        "EntityHandle": "9E2",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.7419,
+            79.6885,
+            0.0
+          ],
+          [
+            44.7419,
+            79.6885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9E3",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            146.2419,
+            170.1885,
+            0.0
+          ],
+          [
+            146.2419,
+            168.321,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Steel",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9E4",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            179.4533,
+            104.2638,
+            0.0
+          ],
+          [
+            179.4533,
+            101.8545,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9E5",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            179.4533,
+            101.8545,
+            0.0
+          ],
+          [
+            178.9802,
+            101.21,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9E6",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            178.9802,
+            101.21,
+            0.0
+          ],
+          [
+            180.2366,
+            100.4663,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9E7",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            180.2366,
+            100.4663,
+            0.0
+          ],
+          [
+            179.3912,
+            99.7709,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9E8",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            179.3912,
+            99.7709,
+            0.0
+          ],
+          [
+            179.3912,
+            97.8961,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9E9",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.7419,
+            286.705,
+            0.0
+          ],
+          [
+            144.7419,
+            288.1064,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9EA",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.7419,
+            286.705,
+            0.0
+          ],
+          [
+            36.7419,
+            288.1064,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9EA",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.8356,
+            283.6064,
+            0.0
+          ],
+          [
+            115.407,
+            283.6064,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9EA",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.6481,
+            283.6064,
+            0.0
+          ],
+          [
+            66.0767,
+            283.6064,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9EA",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.7419,
+            220.8138,
+            0.0
+          ],
+          [
+            40.7419,
+            308.6707,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Center",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "CENTER",
+        "EntityHandle": "9EB",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            37.7419,
+            244.6885,
+            0.0
+          ],
+          [
+            145.7419,
+            244.6885,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Struc_Section_Conc",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9EC",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.7419,
+            268.4732,
+            0.0
+          ],
+          [
+            144.7419,
+            268.1649,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9ED",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.7419,
+            268.4732,
+            0.0
+          ],
+          [
+            40.7419,
+            268.1649,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9ED",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            144.8356,
+            272.6649,
+            0.0
+          ],
+          [
+            117.407,
+            272.6649,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9ED",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.6481,
+            272.6649,
+            0.0
+          ],
+          [
+            68.0767,
+            272.6649,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9ED",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            40.7419,
+            272.6649,
+            0.0
+          ],
+          [
+            45.2419,
+            272.6649,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9EE",
+        "Text": null
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            36.7419,
+            272.6649,
+            0.0
+          ],
+          [
+            4.2865,
+            272.6649,
+            0.0
+          ]
+        ]
+      },
+      "properties": {
+        "Layer": "Dim",
+        "PaperSpace": null,
+        "SubClasses": "AcDbEntity:AcDbLine",
+        "Linetype": "Continuous",
+        "EntityHandle": "9EE",
+        "Text": null
+      }
+    }
+  ]
+}
