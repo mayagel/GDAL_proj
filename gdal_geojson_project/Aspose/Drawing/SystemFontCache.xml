@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<FontFamilies>
+    <changed>2025-07-07T06:15:05.2968302Z</changed>
+    <Family name="DejaVu Sans">
+        <Font style="Book" type="TTF" name="DejaVu Sans" path="/usr/share/fonts/truetype/dejavu/DejaVuSans.ttf" offset="0" />
+        <Font style="Bold" type="TTF" name="DejaVu Sans Bold" path="/usr/share/fonts/truetype/dejavu/DejaVuSans-Bold.ttf" offset="0" />
+    </Family>
+    <Family name="DejaVu Sans Mono">
+        <Font style="Bold Oblique" type="TTF" name="DejaVu Sans Mono Bold Oblique" path="/usr/share/fonts/truetype/dejavu/DejaVuSansMono-BoldOblique.ttf" offset="0" />
+        <Font style="Bold" type="TTF" name="DejaVu Sans Mono Bold" path="/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf" offset="0" />
+    </Family>
+    <Family name="DejaVu Serif">
+        <Font style="Book" type="TTF" name="DejaVu Serif" path="/usr/share/fonts/truetype/dejavu/DejaVuSerif.ttf" offset="0" />
+        <Font style="Bold" type="TTF" name="DejaVu Serif Bold" path="/usr/share/fonts/truetype/dejavu/DejaVuSerif-Bold.ttf" offset="0" />
+    </Family>
+    <Family name="Ubuntu">
+        <Font style="Regular" type="TTF" name="Ubuntu Regular" path="/usr/share/fonts/truetype/ubuntu/Ubuntu-B.ttf" offset="0" />
+        <Font style="Italic" type="TTF" name="Ubuntu Italic" path="/usr/share/fonts/truetype/ubuntu/Ubuntu-BI.ttf" offset="0" />
+    </Family>
+    <Family name="Ubuntu Mono">
+        <Font style="Regular" type="TTF" name="Ubuntu Mono Regular" path="/usr/share/fonts/truetype/ubuntu/UbuntuMono-B.ttf" offset="0" />
+        <Font style="Italic" type="TTF" name="Ubuntu Mono Italic" path="/usr/share/fonts/truetype/ubuntu/UbuntuMono-BI.ttf" offset="0" />
+    </Family>
+    <Family name="Ubuntu Sans">
+        <Font style="Regular" type="TTF" name="Ubuntu Sans Regular" path="/usr/share/fonts/truetype/ubuntu/UbuntuSans[wdth,wght].ttf" offset="0" />
+        <Font style="Italic" type="TTF" name="Ubuntu Sans Italic" path="/usr/share/fonts/truetype/ubuntu/UbuntuSans-Italic[wdth,wght].ttf" offset="0" />
+    </Family>
+    <Family name="Ubuntu Sans Mono">
+        <Font style="Regular" type="TTF" name="Ubuntu Sans Mono Regular" path="/usr/share/fonts/truetype/ubuntu/UbuntuSansMono[wght].ttf" offset="0" />
+        <Font style="Italic" type="TTF" name="Ubuntu Sans Mono Italic" path="/usr/share/fonts/truetype/ubuntu/UbuntuSansMono-Italic[wght].ttf" offset="0" />
+    </Family>
+</FontFamilies>
