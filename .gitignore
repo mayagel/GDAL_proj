@@ -1,4 +1,4 @@
-!*.gitkeep
+!gdal_geojson_project/files/outputs
 files/outputs/**/*.json
 files/outputs/**/*.geojson
 files/outputs/**/*.dxf
