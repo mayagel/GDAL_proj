@@ -1,3 +1,4 @@
+!*.gitkeep
 files/outputs/**/*.json
 files/outputs/**/*.geojson
 files/outputs/**/*.dxf
