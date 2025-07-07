@@ -1,0 +1,4 @@
+files/outputs/*
+!files/outputs/**/
+gdal_geojson_project/files/outputs/*
+!gdal_geojson_project/files/outputs/**/
