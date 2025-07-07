@@ -1,0 +1,243 @@
+{
+  "displayFieldName" : "",
+  "fieldAliases" : {
+    "OBJECTID" : "OBJECTID",
+    "Entity" : "Entity",
+    "Handle" : "Handle",
+    "Layer" : "Layer",
+    "LyrFrzn" : "LyrFrzn",
+    "LyrLock" : "LyrLock",
+    "LyrOn" : "LyrOn",
+    "LyrVPFrzn" : "LyrVPFrzn",
+    "LyrHandle" : "LyrHandle",
+    "Color" : "Color",
+    "EntColor" : "EntColor",
+    "LyrColor" : "LyrColor",
+    "BlkColor" : "BlkColor",
+    "Linetype" : "Linetype",
+    "EntLinetype" : "EntLinetype",
+    "LyrLnType" : "LyrLnType",
+    "BlkLinetype" : "BlkLinetype",
+    "LTScale" : "LTScale",
+    "Elevation" : "Elevation",
+    "Thickness" : "Thickness",
+    "LineWt" : "LineWt",
+    "EntLineWt" : "EntLineWt",
+    "LyrLineWt" : "LyrLineWt",
+    "BlkLineWt" : "BlkLineWt",
+    "RefName" : "RefName",
+    "ExtX" : "ExtX",
+    "ExtY" : "ExtY",
+    "ExtZ" : "ExtZ",
+    "DocName" : "DocName",
+    "DocPath" : "DocPath",
+    "DocType" : "DocType",
+    "DocVer" : "DocVer",
+    "DocUpdate" : "DocUpdate",
+    "DocId" : "DocId",
+    "GlobalWidth" : "GlobalWidth",
+    "Shape_Length" : "Shape_Length"
+  },
+  "geometryType" : "esriGeometryPolyline",
+  "spatialReference" : {
+    "wkid" : 2039,
+    "latestWkid" : 2039
+  },
+  "fields" : [
+    {
+      "name" : "OBJECTID",
+      "type" : "esriFieldTypeOID",
+      "alias" : "OBJECTID"
+    },
+    {
+      "name" : "Entity",
+      "type" : "esriFieldTypeString",
+      "alias" : "Entity",
+      "length" : 16
+    },
+    {
+      "name" : "Handle",
+      "type" : "esriFieldTypeString",
+      "alias" : "Handle",
+      "length" : 16
+    },
+    {
+      "name" : "Layer",
+      "type" : "esriFieldTypeString",
+      "alias" : "Layer",
+      "length" : 255
+    },
+    {
+      "name" : "LyrFrzn",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "LyrFrzn"
+    },
+    {
+      "name" : "LyrLock",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "LyrLock"
+    },
+    {
+      "name" : "LyrOn",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "LyrOn"
+    },
+    {
+      "name" : "LyrVPFrzn",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "LyrVPFrzn"
+    },
+    {
+      "name" : "LyrHandle",
+      "type" : "esriFieldTypeString",
+      "alias" : "LyrHandle",
+      "length" : 16
+    },
+    {
+      "name" : "Color",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "Color"
+    },
+    {
+      "name" : "EntColor",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "EntColor"
+    },
+    {
+      "name" : "LyrColor",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "LyrColor"
+    },
+    {
+      "name" : "BlkColor",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "BlkColor"
+    },
+    {
+      "name" : "Linetype",
+      "type" : "esriFieldTypeString",
+      "alias" : "Linetype",
+      "length" : 255
+    },
+    {
+      "name" : "EntLinetype",
+      "type" : "esriFieldTypeString",
+      "alias" : "EntLinetype",
+      "length" : 255
+    },
+    {
+      "name" : "LyrLnType",
+      "type" : "esriFieldTypeString",
+      "alias" : "LyrLnType",
+      "length" : 255
+    },
+    {
+      "name" : "BlkLinetype",
+      "type" : "esriFieldTypeString",
+      "alias" : "BlkLinetype",
+      "length" : 255
+    },
+    {
+      "name" : "LTScale",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "LTScale"
+    },
+    {
+      "name" : "Elevation",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "Elevation"
+    },
+    {
+      "name" : "Thickness",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "Thickness"
+    },
+    {
+      "name" : "LineWt",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "LineWt"
+    },
+    {
+      "name" : "EntLineWt",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "EntLineWt"
+    },
+    {
+      "name" : "LyrLineWt",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "LyrLineWt"
+    },
+    {
+      "name" : "BlkLineWt",
+      "type" : "esriFieldTypeSmallInteger",
+      "alias" : "BlkLineWt"
+    },
+    {
+      "name" : "RefName",
+      "type" : "esriFieldTypeString",
+      "alias" : "RefName",
+      "length" : 255
+    },
+    {
+      "name" : "ExtX",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "ExtX"
+    },
+    {
+      "name" : "ExtY",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "ExtY"
+    },
+    {
+      "name" : "ExtZ",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "ExtZ"
+    },
+    {
+      "name" : "DocName",
+      "type" : "esriFieldTypeString",
+      "alias" : "DocName",
+      "length" : 255
+    },
+    {
+      "name" : "DocPath",
+      "type" : "esriFieldTypeString",
+      "alias" : "DocPath",
+      "length" : 4096
+    },
+    {
+      "name" : "DocType",
+      "type" : "esriFieldTypeString",
+      "alias" : "DocType",
+      "length" : 32
+    },
+    {
+      "name" : "DocVer",
+      "type" : "esriFieldTypeString",
+      "alias" : "DocVer",
+      "length" : 16
+    },
+    {
+      "name" : "DocUpdate",
+      "type" : "esriFieldTypeDate",
+      "alias" : "DocUpdate",
+      "length" : 8
+    },
+    {
+      "name" : "DocId",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "DocId"
+    },
+    {
+      "name" : "GlobalWidth",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "GlobalWidth"
+    },
+    {
+      "name" : "Shape_Length",
+      "type" : "esriFieldTypeDouble",
+      "alias" : "Shape_Length"
+    }
+  ],
+  "features" : [{"attributes":{"OBJECTID":1,"Entity":"LWPolyline","Handle":"2A5","Layer":"KAV","LyrFrzn":0,"LyrLock":0,"LyrOn":1,"LyrVPFrzn":0,"LyrHandle":"2A6","Color":1,"EntColor":1,"LyrColor":7,"BlkColor":0,"Linetype":"Continuous","EntLinetype":"ByLayer","LyrLnType":"Continuous","BlkLinetype":"","LTScale":1,"Elevation":0,"Thickness":0,"LineWt":25,"EntLineWt":-1,"LyrLineWt":-3,"BlkLineWt":-1,"RefName":"","ExtX":0,"ExtY":0,"ExtZ":1,"DocName":"kav only.dwg","DocPath":"C:\\Users\\eyalsc\\Israel Antiquities Authority\\טכנולוגיות דיגיטליות ומידע - ניהול מסמכים\\מערכות אפליקטיביות\\מערכות\\GIS\\כללי\\קבצים ממייל\\קווי מקורות\\kav only.dwg","DocType":"DWG","DocVer":"AC1027","DocUpdate":1699201190000,"DocId":2084450165281901312,"GlobalWidth":0,"Shape_Length":6100.0818117589006},"geometry":{"paths":[[[183416.33710000012,573842.44759999961],[183487.9841,573857.85559999943],[183563.48309999984,573953.38489999995],[183652.07890000008,574136.7396000009],[183523.99370000046,574220.33249999955],[183595.06940000039,574327.79829999991],[183689.8284,574432.57239999995],[183740.67459999956,574830.86810000055],[183749.14900000021,574937.95340000093],[183971.19369999971,574946.03060000017],[184024.82479999959,574993.17310000025],[183981.85730000027,575167.0504999999],[183930.09619999956,575419.83730000071],[183816.94400000013,575847.16740000062],[183686.93939999957,576340.70360000059],[183599.06579999998,576688.58640000038],[183601.72559999954,576937.56750000082],[183620.95480000041,577128.87270000018],[183650.04499999993,577256.08080000058],[183680.12129999977,577368.00420000032],[183750.13509999961,577558.32330000028],[183699.35049999971,577885.21859999932],[183630.50769999996,578308.44439999945],[183607.39580000006,578480.24310000055],[183591.21740000043,578607.35869999975],[183560.40149999969,578634.32269999944],[183226.04879999999,578834.62609999999],[183118.1930999998,578903.96189999953],[183011.87820000015,579047.25599999912],[183004.17420000024,579085.00549999997]]]}}]
+}
