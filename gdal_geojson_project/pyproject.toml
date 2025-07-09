@@ -8,13 +8,13 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = ">=3.12,<3.13"
 gdal = "3.3.0"
-
-
-[build-system]
-requires = ["poetry-core"]
-build-backend = "poetry.core.masonry.api"
+aspose-cad = "^25.4.1.0"
 
 [[tool.poetry.source]]
 name = "aspose"
 url = "https://pypi.aspose.com/artifactory/api/pypi/aspose-python-api/simple"
 priority = "explicit"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

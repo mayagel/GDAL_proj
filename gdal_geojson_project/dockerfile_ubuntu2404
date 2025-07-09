@@ -23,8 +23,18 @@ RUN wget http://security.ubuntu.com/ubuntu/pool/main/o/openssl1.0/libssl1.0.0_1.
     dpkg -i libssl1.0.0_1.0.2n-1ubuntu5.13_amd64.deb && \
     rm libssl1.0.0_1.0.2n-1ubuntu5.13_amd64.deb
 
-# Install Python requirements
-RUN pip install --no-cache-dir --break-system-packages -r requirements.txt
+
+# Install Poetry
+ENV POETRY_VERSION=1.8.2 \
+    POETRY_HOME="/opt/poetry" \
+    PATH="/opt/poetry/bin:$PATH" \
+    POETRY_NO_INTERACTION=1 \
+    POETRY_VIRTUALENVS_CREATE=false
+
+RUN curl -sSL https://install.python-poetry.org | python3 -
+
+# Install Python dependencies via Poetry
+RUN poetry install --no-root --no-interaction
 
 # Default command
-CMD ["python3", "src/examples.py"]
+CMD ["poetry", "run", "python3", "src/examples.py"]
