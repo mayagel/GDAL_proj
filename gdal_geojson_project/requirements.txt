@@ -1,2 +1,0 @@
-aspose-cad
-gdal
