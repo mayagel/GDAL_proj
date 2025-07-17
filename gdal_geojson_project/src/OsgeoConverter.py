@@ -108,7 +108,7 @@ class OsgeoConverter:
             logging.error(f"Failed to open DXF file: {dxf_path}")
             return
 
-        gdb_driver = ogr.GetDriverByName("FileGDB") #error with ogr.GetDriverByName("OpenFileGDB") on linux
+        gdb_driver = ogr.GetDriverByName("OpenFileGDB") # didnt check that yet
         if gdb_driver is None:
             logging.error("FileGDB driver not available in GDAL build")
             return

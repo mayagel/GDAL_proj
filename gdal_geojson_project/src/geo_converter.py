@@ -42,7 +42,7 @@ class GeoConverter:
             # Fallback to DWG -> DXF -> GeoJSON
             logging.info(f"DWG file NOT opened by CAD driver, fallback to subprocess method: {dwg_path}")
             self.subprocess_converter.convert_dwg_to_dxf(dwg_path, gdb_path.replace('.gdb', '.dxf'))
-            self.osgeo_converter.convert_dxf_to_gdb(gdb_path.replace('.gdb', '.dxf'), gdb_path)  # fail because FGDB driver is not available
+            self.osgeo_converter.convert_dxf_to_gdb(gdb_path.replace('.gdb', '.dxf'), gdb_path)  
 
     def convert_dwg_to_geojson(self, dwg_path: str, geojson_path: str):
         """
