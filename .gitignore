@@ -5,3 +5,4 @@ files/outputs/**/*.dxf
 gdal_geojson_project/files/outputs/**/*.json
 gdal_geojson_project/files/outputs/**/*.geojson
 gdal_geojson_project/files/outputs/**/*.dxf
+gdal_geojson_project/files/outputs/**/*.gdb

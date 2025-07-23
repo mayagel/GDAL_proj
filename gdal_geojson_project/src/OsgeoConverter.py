@@ -15,7 +15,7 @@ class OsgeoConverter:
         self.input_file = input_file or "files/DWG_from_hila/copy.dwg"
         self.output_dir = output_dir or "files/outputs"
 
-    def convert_gdb_to_geojson2(self, gdb_path: str, output_geojson: str):
+    def convert_gdb_to_geojson(self, gdb_path: str, output_geojson: str):
         """
         Convert OpenFileGDB to GeoJSON.
         """

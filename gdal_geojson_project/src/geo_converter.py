@@ -36,7 +36,7 @@ class GeoConverter:
         if dwg_ds:
             # DWG readable by CAD driver, so try DWG -> GDB -> GeoJSON
             logging.info(f"DWG file opened by CAD driver: {dwg_path}")
-            gdb_path = os.path.splitext(geojson_path)[0] + ".gdb"
+            gdb_path = os.path.splitext(dwg_path)[0] + ".gdb"
             self.osgeo_converter.convert_dwg_to_gdb(dwg_path, gdb_path)
         else:
             # Fallback to DWG -> DXF -> GeoJSON
@@ -69,3 +69,19 @@ class GeoConverter:
             os.remove(temp_dxf)
             logging.info(f"Removed temporary file {temp_dxf}")
             # self.subprocess_converter.convert_dwg_to_geojson(dwg_path, geojson_path)
+
+    def convert_gdb_to_geojson(self, gdb_path: str, geojson_path: str):
+        """
+        Converts GDB to GeoJSON using the best available method.
+        """
+        # Check if GDB can be opened by GDAL
+        gdb_driver = ogr.GetDriverByName("OpenFileGDB")
+        gdb_ds = gdb_driver.Open(gdb_path, 0) if gdb_driver else None
+
+        if gdb_ds:
+            logging.info(f"GDB file opened successfully: {gdb_path}")
+            self.osgeo_converter.convert_gdb_to_geojson(gdb_path, geojson_path)
+        else:
+            logging.error(f"Failed to open GDB file: {gdb_path}")
+            self.subprocess_converter.convert_gdb_to_geojson(gdb_path, geojson_path)
+            return

@@ -18,7 +18,13 @@ class SubprocessConverter:
         Run a shell command with subprocess and handle errors.
         """
         logging.info(f"Running command: {' '.join(cmd)}")
-        result = subprocess.run(cmd, capture_output=True, text=True)
+        try:
+            result = subprocess.run(cmd, capture_output=True, check=True)
+            decoded_output = result.stdout.decode('utf-8', errors='ignore')
+            logging.info(decoded_output)
+        except subprocess.CalledProcessError as e:
+            logging.error(f"Error: {e}")
+            logging.error(f"Stderr: {e.stderr.decode('utf-8', errors='ignore')}")
         if result.returncode != 0:
             logging.error(f"Command failed with exit code {result.returncode}")
             logging.error(f"stderr: {result.stderr}")
@@ -48,3 +54,9 @@ class SubprocessConverter:
         self.convert_dxf_to_geojson(temp_dxf, output_geojson)
         os.remove(temp_dxf)
         logging.info(f"Removed temporary file {temp_dxf}")
+
+    def convert_gdb_to_geojson(self, input_gdb: str, output_geojson: str):
+        """
+        Convert GDB to GeoJSON using 'ogr2ogr' command.
+        """
+        self.run_command(["ogr2ogr", "-f", "GeoJSON", output_geojson, input_gdb])

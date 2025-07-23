@@ -16,7 +16,8 @@ for lyr in ["polygon", "polyline", "point", "textpoint", "annotation"]:
     fullLyr = scratchGDB + os.sep + lyr 
     arcpy.FeatureClassToFeatureClass_conversion(InDwg +  os.sep + lyr, scratchGDB, lyr)
 
-    
+    # arcpy.convertion.exportfeatures(fullLyr, fullLyr, "GDB", "CAD", lyr)
+    # arcpy.exportFeatures_convertion(fullLyr, fullLyr, "GDB", "CAD", lyr)
     # Add geometry type field to identify source
     arcpy.AddField_management(fullLyr, "GeometryType", "TEXT", field_length=25)
     arcpy.CalculateField_management(fullLyr, "GeometryType", f"'{lyr}'", "PYTHON3")
