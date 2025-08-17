@@ -24,18 +24,48 @@ def main():
                 geo_converter.convert_gdb_to_geojson(gdb_file_path,  output_name)
 
 
-    # Process all .dwg files in files\dwg_to_geojson
-    dwg_dir = os.path.join('files', 'dwg_to_geojson')
-    for root, dirs, files in os.walk(dwg_dir):
-        for file in files:
-            if file.lower().endswith('.dwg'):
-                dwg_file_path = os.path.join(root, file)
-                if os.path.isfile(dwg_file_path):
-                    # output_name = sanitize_output_name(os.path.relpath(dwg_file_path, start='files'))
-                    rel_path = os.path.relpath(dwg_file_path, start='files')
-                    output_name = os.path.join('files', 'outputs', rel_path).replace('.dwg', '.geojson')
-                    # output_path = os.path.join('files', 'output', os.path.join('files', 'outputs', output_name))
-                    geo_converter = GeoConverter()
-                    geo_converter.convert_dwg_to_geojson(dwg_file_path, output_name)
+    # # Process all .dwg files in files\dwg_to_geojson
+    # dwg_dir = os.path.join('files', 'dwg_to_geojson')
+    # for root, dirs, files in os.walk(dwg_dir):
+    #     for file in files:
+    #         if file.lower().endswith('.dwg'):
+    #             dwg_file_path = os.path.join(root, file)
+    #             if os.path.isfile(dwg_file_path):
+    #                 # output_name = sanitize_output_name(os.path.relpath(dwg_file_path, start='files'))
+    #                 rel_path = os.path.relpath(dwg_file_path, start='files')
+    #                 output_name = os.path.join('files', 'outputs', rel_path).replace('.dwg', '.geojson')
+    #                 # output_path = os.path.join('files', 'output', os.path.join('files', 'outputs', output_name))
+    #                 geo_converter = GeoConverter()
+    #                 geo_converter.convert_dwg_to_geojson(dwg_file_path, output_name)
+
+    # Process all .dwg files in files\DWG_from_hila from DWG to GEOJSON
+    # dwg_dir = os.path.join('files', 'DWG_from_hila')
+    # for root, dirs, files in os.walk(dwg_dir):
+    #     for file in files:
+    #         if file.lower().endswith('.dwg'):
+    #             dwg_file_path = os.path.join(root, file)
+    #             if os.path.isfile(dwg_file_path):
+    #                 # output_name = sanitize_output_name(os.path.relpath(dwg_file_path, start='files'))
+    #                 rel_path = os.path.relpath(dwg_file_path, start='files')
+    #                 output_name = os.path.join('files', 'outputs', rel_path).replace('.dwg', '.geojson')
+    #                 # output_path = os.path.join('files', 'output', os.path.join('files', 'outputs', output_name))
+    #                 geo_converter = GeoConverter()
+    #                 geo_converter.convert_dwg_to_geojson(dwg_file_path, output_name)
+
+    # Process all .dwg files in files\DWG_from_hila from DWG to GDB
+    # dwg_dir = os.path.join('files', 'DWG_from_hila')
+    # for root, dirs, files in os.walk(dwg_dir):
+    #     for file in files:
+    #         if file.lower().endswith('.dwg'):
+    #             dwg_file_path = os.path.join(root, file)
+    #             if os.path.isfile(dwg_file_path):
+    #                 # output_name = sanitize_output_name(os.path.relpath(dwg_file_path, start='files'))
+    #                 rel_path = os.path.relpath(dwg_file_path, start='files')
+    #                 output_name = os.path.join('files', 'outputs', rel_path).replace('.dwg', '.gdb')
+    #                 # output_path = os.path.join('files', 'output', os.path.join('files', 'outputs', output_name))
+    #                 geo_converter = GeoConverter()
+    #                 geo_converter.convert_dwg_to_gdb(dwg_file_path, output_name)
+
+
 if __name__ == "__main__":
     main()

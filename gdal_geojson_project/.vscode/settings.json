@@ -1,4 +1,9 @@
 {
+<<<<<<< HEAD
     "python-envs.defaultEnvManager": "ms-python.python:system",
+=======
+    "python-envs.defaultEnvManager": "ms-python.python:poetry",
+    "python-envs.defaultPackageManager": "ms-python.python:poetry",
+>>>>>>> 4e8a7b1c4efb8b8dfd678cf94ff96802ef559644
     "python-envs.pythonProjects": []
 }

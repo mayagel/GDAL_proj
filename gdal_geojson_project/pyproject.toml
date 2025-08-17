@@ -1,19 +1,15 @@
 [tool.poetry]
-name = "gdal-poc"
+name = "gdal-converter"
 version = "0.1.0"
-description = "this is point of concept for convert from wsg and gdb to geojson using Gdal library"
-authors = ["yagel"]
+description = "conver from dwg and gdb using Gdal library (ESRI FREE)"
+authors = ["mayagel <myagel2@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = ">=3.12,<3.13"
-gdal = "3.3.0"
-aspose-cad = "^25.4.1.0"
+python = "3.11.*"
+gdal = "3.8.4"
+ezdxf = "^1.4.2"
 
-[[tool.poetry.source]]
-name = "aspose"
-url = "https://pypi.aspose.com/artifactory/api/pypi/aspose-python-api/simple"
-priority = "explicit"
 
 [build-system]
 requires = ["poetry-core"]
